@@ -1,7 +1,7 @@
 from tkinter import *
 
-f_num = '0'  # Global Variable declaration
-math = '0'  # Global Variable declaration
+f_num = None  # Global Variable declaration
+math = None  # Global Variable declaration
 
 root = Tk()
 root.title("Simple Calculator")
